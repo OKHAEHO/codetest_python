@@ -12,4 +12,10 @@
 
 [소스 코드 : DATA_INPUT_EX2.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day1/DATA_INPUT/DATA_INPUT_EX2.py)
 
-[소스 코드 : DATA_CONVERT_EX3.PY 실행 완료](
+[소스 코드 : DATA_CONVERT_EX3.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day1/DATA_CONVERT/DATA_CONVERT_EX3.py)
+
+[소스 코드 : IF_REPEAT_EX4_1.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day1/DATA_REPEAT/IF_REPEAT_EX4_1.py)
+
+[소스 코드 : IF_REPEAT_EX4_2.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day1/DATA_REPEAT/IF_REPEAT_EX4_2.py)
+
+[소스 코드 : IF_REPEAT_EX4_3.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day1/DATA_REPEAT/IF_REPEAT_EX4_3.py)
