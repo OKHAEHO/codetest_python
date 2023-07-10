@@ -10,4 +10,6 @@
 ## 기본 출력 실습
 [소스 코드 : HelloWorld_ex.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day1/HelloWorld_ex.py)
 
-[소스 코드 : DATA_INPUT_EX2.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day1/DATA_INPUT_EX2.py)
+[소스 코드 : DATA_INPUT_EX2.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day1/DATA_INPUT/DATA_INPUT_EX2.py)
+
+[소스 코드 : DATA_CONVERT_EX3.PY 실행 완료](
