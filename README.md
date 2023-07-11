@@ -23,4 +23,6 @@
 [소스 코드 : IF_REPEAT_EX5.PY 실행 중]()
 ## Day2
 
-[소스 코드 : DATA_TYPE_EX6.PY 실행 완료]()
+[소스 코드 : DATA_TYPE_EX6.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day2/DATA_TYPE/DATA_TYPE_EX6.py)
+
+[소스 코드 : DATA_TYPE_EX7.PY 실행 완료]()
