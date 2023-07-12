@@ -33,4 +33,4 @@
 [소스 코드 : function_ex12.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day2/function/function_ex12.py)
 
 ## Day3
-[소스 코드 : time_test.py 실행완료]()
+[소스 코드 : time_test.py 실행완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day3/time_test.py)
