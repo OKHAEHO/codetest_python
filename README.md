@@ -21,6 +21,7 @@
 [소스 코드 : IF_REPEAT_EX4_3.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day1/DATA_REPEAT/IF_REPEAT_EX4_3.py)
 
 [소스 코드 : IF_REPEAT_EX5.PY 실행 중](https://github.com/OKHAEHO/codetest_python/blob/master/Day1/DATA_REPEAT/IF_REPEAT_EX5.py)
+
 ## Day2
 
 [소스 코드 : DATA_TYPE_EX6.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day2/DATA_TYPE/DATA_TYPE_EX6.py)
@@ -31,3 +32,5 @@
 
 [소스 코드 : function_ex12.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day2/function/function_ex12.py)
 
+## Day3
+[소스 코드 : time_test.py 실행완료]()
