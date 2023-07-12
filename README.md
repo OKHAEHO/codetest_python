@@ -27,4 +27,7 @@
 
 [소스 코드 : DATA_TYPE_EX7.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day2/DATA_TYPE/DATA_TYPE_EX7.py)
 
-[소스 코드 : function_ex12.PY 실행 완료]()
+[소스 코드 : function_ex11.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day2/function/function_ex11.py)
+
+[소스 코드 : function_ex12.PY 실행 완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day2/function/function_ex12.py)
+
