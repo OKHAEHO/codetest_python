@@ -35,4 +35,12 @@
 ## Day3
 [소스 코드 : time_test.py 실행완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day3/time_test.py)
 
-[소스 코드 : greedy.py 실행완료]()
+[소스 코드 : greedy.py 실행완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day3/greedy.py)
+
+[소스 코드 : greedy_time.py 실행완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day3/greedy_time.py)
+
+[소스 코드 : card.py 실행완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day3/card.py)
+
+[소스 코드 : coin.py 실행완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day3/coin.py)
+
+[소스 코드 : xorplus.py 실행완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day3/xorplus.py)
