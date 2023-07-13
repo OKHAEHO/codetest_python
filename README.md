@@ -34,3 +34,5 @@
 
 ## Day3
 [소스 코드 : time_test.py 실행완료](https://github.com/OKHAEHO/codetest_python/blob/master/Day3/time_test.py)
+
+[소스 코드 : greedy.py 실행완료]()
