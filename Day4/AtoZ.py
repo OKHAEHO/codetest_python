@@ -12,7 +12,7 @@ print(select)
 for clear in small_list :
     clear = ord(clear)
     if select == clear :
-        small_copy.append(clear-select)
+        small_copy.append(clear-select-1)
     else :
         small_copy.append((clear - select)-(clear - select + 1))
 
