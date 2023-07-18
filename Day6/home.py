@@ -1,7 +1,7 @@
 from collections import deque
 
 n = int(input("단지의 크기 N을 입력하세요 : "))
-arr = [list(map(int,input("단지 지도 세부 정보를 입력하세요 : "))) for _ in range(n)] 
+arr = [list(map(int, input("단지 지도 세부 정보를 입력하세요 : "))) for _ in range(n)] 
 cnt = 0
 cnt_arr = list()
 
@@ -21,7 +21,7 @@ for i in range(n):
                 for z in range(4):
                     nx = x + dx[z]
                     ny = y + dy[z]
-                    if 0 <= nx < n and 0 <= ny <n and arr[nx][ny] == 1 :
+                    if 0 <= nx < n and 0 <= ny < n and arr[nx][ny] == 1 :
                         arr[nx][ny] = 0
                         cnt += 1
                         q.append((nx,ny))

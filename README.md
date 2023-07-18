@@ -85,3 +85,4 @@ DFS -> BFS 순서로 풀어본다.
 
 팩토리얼 함수 : n! = n * (n-1)!
 
+[소스코드 : DFS,BFS 실전 활용 문제 완벽 이해!](https://github.com/OKHAEHO/codetest_python/blob/master/Day6/home2.py)
