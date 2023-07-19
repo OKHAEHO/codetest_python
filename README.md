@@ -86,3 +86,9 @@ DFS -> BFS 순서로 풀어본다.
 팩토리얼 함수 : n! = n * (n-1)!
 
 [소스코드 : DFS,BFS 실전 활용 문제 완벽 이해!](https://github.com/OKHAEHO/codetest_python/blob/master/Day6/home2.py)
+
+## Day7
+정렬과 이진탐색의 개요
+
+## Day8
+이진탐색 : 정렬되어있는 리스트에서 탐색 범위를 절반씩 줄여가면서 데이터를 탐색하는 방법
